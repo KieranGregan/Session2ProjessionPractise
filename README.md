@@ -9,7 +9,8 @@
 
 # Statement
 
-First Header | Second Header
+Stantment | Truth/Lie
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+I have a metal bone in my leg | *your answer here*
+I lived in america | *your answer here*
+I have ever had a job | *your answer here*
