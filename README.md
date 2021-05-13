@@ -7,7 +7,7 @@
 
 # two truths one lie
 
-:blowfish:	
+:blowfish:	:t-rex: 
 
 Statement | Truth/Lie
 ------------ | -------------
