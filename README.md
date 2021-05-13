@@ -7,7 +7,7 @@
 
 # two truths one lie
 
-# Statement
+:blowfish:	
 
 Statement | Truth/Lie
 ------------ | -------------
