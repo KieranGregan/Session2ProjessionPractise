@@ -9,8 +9,7 @@
 
 # Statement
 
-I have a metal bone in my leg
-
-I lived in America
-
-I have never had a job
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
